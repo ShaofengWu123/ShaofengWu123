@@ -1,7 +1,15 @@
- # 👋 Hi, Here is Shaofeng Wu, David! 
- I am a PhD student from CUHK, CSE. My current research direction is SmartNIC/DPU.
 
-![Email]("https://img.shields.io/badge/style=flat-square&logo=python&logoColor=white")[wsf123@link.cuhk.edu.hk](wsf123@link.cuhk.edu.hk)
+ 
+ ### 👋 Hi! Here is Shaofeng Wu, David ~
+ I am a PhD student from CSE department, CUHK. My current research direction is SmartNIC/DPU.
+
+
+
+Coding languages
+![](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=flat-square&logo=Microsoft%20Outlook&logoColor=white)
+
+
 
 
 <!---
