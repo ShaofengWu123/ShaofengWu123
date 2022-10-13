@@ -13,6 +13,8 @@
 ![](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white)
+![](https://img.shields.io/badge/Verilog-E01F27?style=flat-square&logo=Xilinx&logoColor=white)
+
 
 
 ![](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)
@@ -21,6 +23,7 @@
 ![](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white)
 ![](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
 ![](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
 
 
