@@ -1,7 +1,7 @@
 
  
  ### 👋 Hi Here is Shaofeng Wu, David ~
- I am a PhD student from CSE department, CUHK. My current research direction is SmartNIC/DPU.
+ I am a PhD student from CSE department, CUHK. My current research direction is SmartNIC/DPU. I like exploring Linux kernel and networking technologies.
 
 
 ### <img src="https://github.com/ShaofengWu123/ShaofengWu123/blob/main/images/slashdot.svg" width=2%/> I Code with
